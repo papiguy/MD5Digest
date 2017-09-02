@@ -5,7 +5,7 @@
 //  Copyright (c) 2013 Keith Smiley. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 
 #ifdef NS_ASSUME_NONNULL_BEGIN
